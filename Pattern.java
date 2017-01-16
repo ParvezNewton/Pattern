@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class pattern {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter any even number");
         int x = sc.nextInt();
         int b=1;
         int c =1;
